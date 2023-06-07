@@ -1,2 +1,2 @@
-# animate-weapon-system
+# Animate Weapon System
 Prototype of an animated weapon system
